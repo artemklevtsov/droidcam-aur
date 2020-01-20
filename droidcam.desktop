@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Version=3.2.1
+Version=@PKGVER@
 Name=Droidcam
 Type=Application
 Exec=droidcam
